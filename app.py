@@ -128,9 +128,9 @@ def load_xception_model(model_path):
 
   return model
 
-st.title("Brain Tumor Classification")
+st.title("TumorViz")
 
-st.write("Upload an image of a brain MRI scan to classify.")
+st.write("Upload an image of a brain MRI scan to classify any tumors present.")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
