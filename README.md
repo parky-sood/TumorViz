@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor MRI Classification
+# 🧠 TumorViz
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange.svg)](https://www.tensorflow.org/)
