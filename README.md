@@ -50,8 +50,8 @@ Both models are deployed through a user-friendly Streamlit web interface that pr
 
 ```bash
 # Clone the repository
-git clone https://github.com/parky-sood/Brain-Tumor-Classifier.git
-cd brain-tumor-ML
+git clone https://github.com/parky-sood/TumorViz.git
+cd TumorViz
 
 # Install required packages
 pip install -r requirements.txt
@@ -118,4 +118,4 @@ The project includes robust data handling:
 
 Parikshit Sood - parikshitsood.com
 
-Project Link: [https://github.com/parky-sood/Brain-Tumor-Classifier](https://github.com/parky-sood/Brain-Tumor-Classifier)
+Project Link: [https://github.com/parky-sood/TumorViz](https://github.com/parky-sood/TumorViz)
